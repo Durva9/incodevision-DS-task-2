@@ -1,26 +1,17 @@
 # incodevision-DS-task-2
 
-Data Cleaning and Preprocessing
+Exploratory Data Analysis (EDA)
 
-This project focuses on cleaning and preparing a raw CSV dataset for analysis.
-The dataset contains missing values, duplicates, and inconsistent formats.
+This project focuses on performing exploratory data analysis on a dataset to understand its structure, patterns, and key insights before building models.
 
 What was done
 
-Handled missing values
+Analysed data using descriptive statistics
 
-Removed duplicate records
+Created visualisations (bar charts, histograms, correlation plots)
 
-Standardised data formats
+Identified trends, patterns, and relationships in the data
 
-Prepared clean data for analysis or modelling
+Summarised key insights
 
-Tools Used
-
-Python
-
-Pandas
-
-NumPy
-
-This task highlights the importance of data cleaning as the foundation of data science.
+This task highlights how EDA helps data scientists make informed decisions by understanding the data before modeling.
